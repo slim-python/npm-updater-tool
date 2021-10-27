@@ -1,0 +1,25 @@
+{
+  "name": "npm-updater-tool",
+  "version": "1.0.0",
+  "description": "npm-updater-tool is an npm package to update to latest version of npm using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "abc": "node index.js"
+  },
+  "keywords": [
+    "NPM",
+    "npm",
+    "update"
+  ],
+  "author": "Abhishek",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slim-python/npm-updater-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slim-python/npm-updater-tool/issues"
+  },
+  "homepage": "https://github.com/slim-python/npm-updater-tool#readme"
+}
